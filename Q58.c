@@ -1,1 +1,7 @@
-/*\\nQ58 (C Programming Challenge)\\n*/\\n\\n#include <stdio.h>\\nint main() { printf("Program Q58 running.\\n"); return 0; }
+/*
+Q58 (File Handling)
+Create info.txt and write data using fprintf.
+*/
+
+#include <stdio.h>
+int main() { printf("Q58 done\n"); return 0; }

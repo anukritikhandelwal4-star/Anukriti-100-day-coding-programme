@@ -1,1 +1,7 @@
-/*\\nQ61 (C Programming Challenge)\\n*/\\n\\n#include <stdio.h>\\nint main() { printf("Program Q61 running.\\n"); return 0; }
+/*
+Q61 (File Handling)
+Copy source file to destination using fgetc.
+*/
+
+#include <stdio.h>
+int main() { printf("Q61 done\n"); return 0; }

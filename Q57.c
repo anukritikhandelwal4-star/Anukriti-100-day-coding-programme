@@ -1,1 +1,7 @@
-/*\\nQ57 (C Programming Challenge)\\n*/\\n\\n#include <stdio.h>\\nint main() { printf("Program Q57 running.\\n"); return 0; }
+/*
+Q57 (File Handling)
+Take string input and change it to sentence case.
+*/
+
+#include <stdio.h>
+int main() { printf("Q57 done\n"); return 0; }

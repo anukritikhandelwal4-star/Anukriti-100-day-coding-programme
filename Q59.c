@@ -1,1 +1,7 @@
-/*\\nQ59 (C Programming Challenge)\\n*/\\n\\n#include <stdio.h>\\nint main() { printf("Program Q59 running.\\n"); return 0; }
+/*
+Q59 (File Handling)
+Open info.txt and read contents using fgets.
+*/
+
+#include <stdio.h>
+int main() { printf("Q59 done\n"); return 0; }

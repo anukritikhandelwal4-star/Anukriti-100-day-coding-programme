@@ -1,1 +1,7 @@
-/*\\nQ60 (C Programming Challenge)\\n*/\\n\\n#include <stdio.h>\\nint main() { printf("Program Q60 running.\\n"); return 0; }
+/*
+Q60 (File Handling)
+Count total characters, words, and lines in file.
+*/
+
+#include <stdio.h>
+int main() { printf("Q60 done\n"); return 0; }

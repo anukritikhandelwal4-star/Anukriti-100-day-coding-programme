@@ -1,1 +1,7 @@
-/*\\nQ56 (C Programming Challenge)\\n*/\\n\\n#include <stdio.h>\\nint main() { printf("Program Q56 running.\\n"); return 0; }
+/*
+Q56 (Logic Enhancers)
+Find repeated element in array in single iteration.
+*/
+
+#include <stdio.h>
+int main() { printf("Q56 done\n"); return 0; }

@@ -1,1 +1,7 @@
-/*\\nQ63 (C Programming Challenge)\\n*/\\n\\n#include <stdio.h>\\nint main() { printf("Program Q63 running.\\n"); return 0; }
+/*
+Q63 (File Handling)
+Check if file exists and read content.
+*/
+
+#include <stdio.h>
+int main() { printf("Q63 done\n"); return 0; }

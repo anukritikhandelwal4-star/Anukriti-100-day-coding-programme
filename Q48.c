@@ -1,1 +1,6 @@
-/*\\nQ48 (C Programming Challenge)\\n*/\\n\\n#include <stdio.h>\\nint main() { printf("Program Q48 running.\\n"); return 0; }
+/*
+Q48 (C Programming Challenge)
+*/
+
+#include <stdio.h>
+int main() { return 0; }

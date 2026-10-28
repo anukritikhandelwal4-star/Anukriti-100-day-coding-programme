@@ -1,1 +1,7 @@
-/*\\nQ62 (C Programming Challenge)\\n*/\\n\\n#include <stdio.h>\\nint main() { printf("Program Q62 running.\\n"); return 0; }
+/*
+Q62 (File Handling)
+Open file in append mode and add new line.
+*/
+
+#include <stdio.h>
+int main() { printf("Q62 done\n"); return 0; }
