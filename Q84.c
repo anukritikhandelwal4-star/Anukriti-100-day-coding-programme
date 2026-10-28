@@ -1,0 +1,1 @@
+/*\\nQ84 (C Programming Challenge)\\n*/\\n\\n#include <stdio.h>\\nint main() { printf("Program Q84 running.\\n"); return 0; }
